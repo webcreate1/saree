@@ -244,6 +244,7 @@ export function OrdersTracker() {
                           <option value="pending">Pending</option>
                           <option value="confirm">Confirmed</option>
                           <option value="delivered">Delivered</option>
+                          <option value="cancelled">Cancelled</option>
                         </select>
                       </td>
 
